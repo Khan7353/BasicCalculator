@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tokyo
+ *
+ */
+module JavaProject {
+}
